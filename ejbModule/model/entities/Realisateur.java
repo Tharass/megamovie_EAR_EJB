@@ -35,7 +35,6 @@ import model.entities.converter.LocalDateConverter;
 @NoArgsConstructor
 @Getter
 @Setter
-@EqualsAndHashCode(of="id")
 //CDI
 @Dependent
 //JPA

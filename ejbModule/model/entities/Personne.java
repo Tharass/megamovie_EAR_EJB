@@ -59,7 +59,4 @@ public class Personne extends AbstractEntity  implements Serializable{
 	}
 
 
-	
-
-
 }

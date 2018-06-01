@@ -74,6 +74,8 @@ public class Film extends AbstractEntity implements Serializable{
     private byte[] jacket;	
 	
 	
+	String lienVideo;
+	
 	/**
 	 * Getteur du GENRE ( enumeration )
 	 * @return
